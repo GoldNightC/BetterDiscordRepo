@@ -1,0 +1,16 @@
+/**
+ * @name Better Light Mode
+ * @description Replaces Discord's default (blinding) light mode for a more subtle approach with darker tones.
+ * @author GoldNightC
+ * @version 1.0.0
+ * @authorId 885963581424812062
+ * @website https://goldnightc.github.io/
+ * @source https://github.com/GoldNightC/BetterDiscordRepo/tree/master/Themes/EmojiReplace/
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/EmojiReplace.theme.css
+ */
+
+/*																				  REPLACE THIS		*/
+/*																					 ↓↓↓↓↓			*/
+@import url(https://raw.githubusercontent.com/GoldNightC/BetterDiscordRepo/main/themes/BetterLightMode/custom.css);
+/*																					 ↑↑↑↑↑		  	*/
+/*																				  REPLACE THIS		*/
